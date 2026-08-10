@@ -1,5 +1,11 @@
-## Hi there 👋
 
+Hi, I'm Rishita Chatterjee 👋
+
+🎓 First-Year B.Tech Student | Coding Gita
+
+Welcome to my GitHub profile! I'm Rishita Chatterjee, a first-year B.Tech student at Coding Gita, currently exploring the world of programming, technology, and software development.
+
+I'm at the beginning of my coding journey and excited to learn, build projects, solve problems, and grow as a developer.
 <!--
 **rishitachatterjee/rishitachatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
