@@ -1,22 +1,22 @@
+<h1 align="center">Hi 👋, I'm Rishita Chatterjee</h1>
 
-Hi, I'm Rishita Chatterjee 👋
+<h3 align="center">💻 First-Year B.Tech Student | 🚀 Aspiring Software Developer</h3>
 
-🎓 First-Year B.Tech Student | Coding Gita
+<p align="center">
+  <i>Passionate about software, coding, and building things that solve real problems.</i>
+</p>
 
-Welcome to my GitHub profile! I'm Rishita Chatterjee, a first-year B.Tech student at Coding Gita, currently exploring the world of programming, technology, and software development.
+---
 
-I'm at the beginning of my coding journey and excited to learn, build projects, solve problems, and grow as a developer.
-<!--
-**rishitachatterjee/rishitachatterjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+- 🎓 I'm a **First-Year B.Tech Student** at **Coding Gita**
+- 💻 Passionate about **Software Development**
+- 🌱 Currently learning and improving my **programming & development skills**
+- 🚀 Interested in exploring new technologies and building projects
+- 💡 I enjoy learning through **coding, experimenting, and solving problems**
+- 🎯 My goal is to become a skilled **Software Developer**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Technologies
