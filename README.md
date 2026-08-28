@@ -41,29 +41,6 @@ I enjoy transforming ideas into practical solutions through code and continuousl
 
 ---
 
-## 💻 Coding & Software
-
-I love exploring programming concepts, developing software ideas, solving logical problems, and learning how technology can be used to make everyday tasks smarter and easier.
-
-## 🚀 Technology
-
-Technology constantly changes, and that is what makes it exciting. I enjoy discovering new tools, technologies, programming concepts, and innovative ideas.
-
-## ✈️ Travelling
-
-Travelling gives me an opportunity to experience new environments, cultures, perspectives, and ideas. It keeps me curious and open-minded.
-
-## 📚 Reading
-
-Reading helps me learn, explore new ideas, improve my imagination, and discover perspectives beyond what I already know.
-
-## 🎧 Listening to Music
-
-Music helps me relax, stay motivated, maintain a positive mindset, and recharge after long hours of coding and learning.
-
-## 🏸 Badminton
-
-Badminton keeps me active and teaches me the importance of **focus, consistency, patience, discipline, and quick decision-making** — qualities that are equally valuable in programming.
 
 ---
 
@@ -151,16 +128,6 @@ Every line of code is an opportunity to learn something new. Every error is a ch
 > 🚀 **My goal is not to know everything. My goal is to keep learning something new every day.**
 
 ---
-
-# 🎯 My Goals
-
-- 🎯 Become an efficient software developer
-- 💻 Build meaningful and useful projects
-- 🧠 Strengthen my problem-solving abilities
-- 🚀 Explore modern technologies
-- 🌱 Keep improving through consistent practice
-- 🤝 Work with talented people and learn from real-world projects
-- 🌎 Contribute to technology that creates a positive impact
 
 ---
 
