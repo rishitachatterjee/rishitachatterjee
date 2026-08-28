@@ -1,87 +1,181 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=38&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Rishita+Chatterjee;Welcome+to+My+GitHub+Profile!" alt="Rishita Chatterjee" />
-</h1>
+<div align="center">
 
-<h3 align="center">💻 Aspiring Developer | 🚀 Passionate Coder | 🌱 Lifelong Learner</h3>
+<!-- Animated Name -->
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2500&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Rishita+Chatterjee;BTech+CSE+Student;Code.+Create.+Innovate." alt="Rishita Chatterjee"/>
 
-<p align="center">
-  <a href="https://instagram.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Instagram-800020?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+<br><br>
 
-  <a href="https://linkedin.com/in/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/LinkedIn-800020?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=120&section=header" width="100%"/>
 
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Email-800020?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+</div>
 
 ---
 
-# 👩‍💻 About Me
+# 💛 About Me
 
-Hello! I'm **Rishita Chatterjee**, a passionate and dedicated aspiring software developer with a strong love for technology, coding, and continuous learning.
+<div align="center">
 
-I enjoy transforming ideas into meaningful digital solutions and exploring new technologies that help me grow as a developer. For me, coding is not just about writing lines of code—it is about solving problems, creating possibilities, and continuously improving.
+### 🌟 A Curious Mind • A Passionate Coder • A Future Software Professional
 
-I believe that every project, challenge, error, and bug teaches us something valuable. My goal is to keep learning, keep building, and become a skilled developer who can create meaningful and impactful solutions.
+</div>
 
----
+I am **Rishita Chatterjee**, a **BTech CSE Student** with a strong interest in **coding, software development, and emerging technologies**.
 
-# 💫 My Interests
-
-Here are some of the things I enjoy:
-
-- 📚 **Reading** – Exploring new ideas, knowledge, and perspectives.
-- 🎵 **Listening to Music** – Finding inspiration, relaxation, and creativity through music.
-- 🏸 **Badminton** – Staying active, focused, and competitive.
-- ✈️ **Travelling** – Exploring new places, cultures, and experiences.
-- 💻 **Software Development** – Building, creating, and solving real-world problems.
-- ⌨️ **Coding** – Turning ideas and logic into working solutions.
-- ❤️ **Technology** – Learning about innovations and discovering new possibilities.
+I enjoy transforming ideas into practical solutions through code and continuously improving my technical knowledge. For me, programming is not simply about writing lines of code — it is about **thinking logically, solving problems, learning from mistakes, and creating something meaningful.**
 
 ---
 
-# 🚀 Why Should Companies Hire Me?
+# 💻 My Interests
 
-I am a passionate and dedicated developer who believes in continuous learning and consistent improvement. I bring enthusiasm, curiosity, problem-solving abilities, and a strong commitment to every opportunity.
+<div align="center">
 
-As a developer, I am always eager to learn new technologies, improve my technical skills, and take on challenges that help me grow. I understand that the world of technology is constantly evolving, and I am prepared to adapt, learn, and evolve with it.
+| 💻 Coding | 🖥️ Software | 🚀 Technology |
+|:---:|:---:|:---:|
+| Writing & Solving Problems | Building Software | Exploring New Tech |
 
-## ✨ What I Bring to the Table
+| ✈️ Travelling | 📚 Reading | 🎧 Music | 🏸 Badminton |
+|:---:|:---:|:---:|:---:|
+| Exploring Places | Learning & Imagination | Relax & Recharge | Energy & Discipline |
 
-- 💻 Strong passion for **Software Development**
-- 🧠 Good **problem-solving and logical thinking skills**
-- 📚 A strong willingness to **learn continuously**
-- ⚡ Dedication and consistency in my work
-- 🔥 Passion for **coding and technology**
-- 🚀 Ability to adapt to new tools and technologies
-- 🤝 A positive attitude towards teamwork and collaboration
-- 🎯 Focus on improving skills and delivering quality work
-- 🌱 A growth mindset and willingness to learn from mistakes
-- 💡 Curiosity to explore, experiment, and build new things
-
-> **I believe that being a great developer is not about knowing everything—it is about having the curiosity to learn anything and the dedication to never stop improving.**
+</div>
 
 ---
 
-# 🛠️ My Developer Mindset
+## 💻 Coding & Software
 
-```text
-Learn 📚
-   ↓
-Practice 💻
-   ↓
-Build 🚀
-   ↓
-Make Mistakes 🐛
-   ↓
-Debug 🔧
-   ↓
-Learn Again 🌱
-   ↓
-Become Better Every Day ✨
+I love exploring programming concepts, developing software ideas, solving logical problems, and learning how technology can be used to make everyday tasks smarter and easier.
 
+## 🚀 Technology
 
+Technology constantly changes, and that is what makes it exciting. I enjoy discovering new tools, technologies, programming concepts, and innovative ideas.
+
+## ✈️ Travelling
+
+Travelling gives me an opportunity to experience new environments, cultures, perspectives, and ideas. It keeps me curious and open-minded.
+
+## 📚 Reading
+
+Reading helps me learn, explore new ideas, improve my imagination, and discover perspectives beyond what I already know.
+
+## 🎧 Listening to Music
+
+Music helps me relax, stay motivated, maintain a positive mindset, and recharge after long hours of coding and learning.
+
+## 🏸 Badminton
+
+Badminton keeps me active and teaches me the importance of **focus, consistency, patience, discipline, and quick decision-making** — qualities that are equally valuable in programming.
+
+---
+
+# 💛 Why Should Companies Hire Me?
+
+<div align="center">
+
+## 🚀 "Give me a problem, and I will turn it into a learning opportunity — then a solution."
+
+</div>
+
+I believe that becoming a successful software professional requires more than technical knowledge. It requires **dedication, efficiency, discipline, adaptability, curiosity, and the willingness to keep learning.**
+
+### 🌟 What I Bring
+
+- 💻 **Dedication to Coding**  
+  I genuinely enjoy programming and continuously work on improving my coding abilities.
+
+- ⚡ **Efficiency**  
+  I focus on understanding problems properly and finding practical and structured solutions.
+
+- 🧠 **Problem-Solving Mindset**  
+  I approach challenges with logic, patience, and curiosity.
+
+- 📚 **Continuous Learning**  
+  I am always willing to learn new technologies, programming concepts, and development practices.
+
+- 🎯 **Consistency**  
+  I believe regular practice is the foundation of technical growth.
+
+- 🔍 **Attention to Detail**  
+  I understand that small details can make a major difference in software development.
+
+- 🤝 **Adaptability**  
+  I am willing to learn from feedback and adapt to new environments and technologies.
+
+- 🚀 **Growth-Oriented Attitude**  
+  I see every project, mistake, and challenge as an opportunity to become better.
+
+---
+
+# 🧑‍💻 My Coding Philosophy
+
+<div align="center">
+
+### 💛 Learn → Practice → Build → Fail → Improve → Repeat
+
+</div>
+
+I believe **diligence beats talent when talent stops practicing.**
+
+Every line of code is an opportunity to learn something new. Every error is a chance to understand something better. Every project is a step toward becoming a more capable developer.
+
+---
+
+# 🛠️ Technologies & Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/HTML5-FFD600?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-FFD600?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FFD600?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-FFD600?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-FFD600?style=for-the-badge&logo=git&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-FFD600?style=for-the-badge&logo=github&logoColor=black"/>
+
+</div>
+
+---
+
+# 🌱 Currently Growing
+
+<div align="center">
+
+| Skill | Progress |
+|:---|:---|
+| 💻 Programming Skills | ███████████████░░░░░ 75% |
+| 🧠 Problem Solving | ██████████████░░░░░░ 70% |
+| 🖥️ Software Development | █████████████░░░░░░░ 65% |
+| 🚀 Technology Exploration | ███████████████░░░░░ 75% |
+| 📚 Continuous Learning | ████████████████████ 100% |
+
+</div>
+
+> 🚀 **My goal is not to know everything. My goal is to keep learning something new every day.**
+
+---
+
+# 🎯 My Goals
+
+- 🎯 Become an efficient software developer
+- 💻 Build meaningful and useful projects
+- 🧠 Strengthen my problem-solving abilities
+- 🚀 Explore modern technologies
+- 🌱 Keep improving through consistent practice
+- 🤝 Work with talented people and learn from real-world projects
+- 🌎 Contribute to technology that creates a positive impact
+
+---
+
+# 💛 Life × Coding
+
+<div align="center">
+
+### ✨ "Life is like coding — you write a line, face an error, debug your mistakes, learn from the process, and keep building until your code finally works. The same way, every mistake in life is not the end of the program; it is simply another opportunity to debug, improve, and run a better version of yourself." ✨
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFD600&height=120&section=footer" width="100%"/>
+
+### 💛 Code with Purpose.
+### 🚀 Learn with Curiosity.
+### 🌱 Grow with Consistency.
+
+</div>
