@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Name -->
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2500&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Rishita+Chatterjee;BTech+CSE+Student;Code.+Create.+Innovate." alt="Rishita Chatterjee"/>
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=38&duration=2500&pause=1000&color=FFD600&center=true&vCenter=true&width=700&lines=Rishita+Chatterjee;B.Tech+CSE+Student;Code.+Create.+Innovate." alt="Rishita Chatterjee"/>
 
 <br><br>
 
@@ -19,7 +19,7 @@
 
 </div>
 
-I am **Rishita Chatterjee**, a **BTech CSE Student** with a strong interest in **coding, software development, and emerging technologies**.
+I am **Rishita Chatterjee**, a **BTech CSE Student at CodingGita ** with a strong interest in **coding, software development, and emerging technologies**.
 
 I enjoy transforming ideas into practical solutions through code and continuously improving my technical knowledge. For me, programming is not simply about writing lines of code — it is about **thinking logically, solving problems, learning from mistakes, and creating something meaningful.**
 
