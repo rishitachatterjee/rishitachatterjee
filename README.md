@@ -19,7 +19,7 @@
 
 </div>
 
-I am **Rishita Chatterjee**, a **BTech CSE Student at CodingGita ** with a strong interest in **coding, software development, and emerging technologies**.
+I am **Rishita Chatterjee**, a B.Tech CSE Student at CodingGita  with a strong interest in **coding, software development, and emerging technologies**.
 
 I enjoy transforming ideas into practical solutions through code and continuously improving my technical knowledge. For me, programming is not simply about writing lines of code — it is about **thinking logically, solving problems, learning from mistakes, and creating something meaningful.**
 
